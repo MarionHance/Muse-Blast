@@ -1,0 +1,20 @@
+﻿  menu.cpp
+C:\Users\Marion Hance\Desktop\Muse Blast\Game\menu.cpp(45,82): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Marion Hance\Desktop\Muse Blast\Game\menu.cpp(45,62): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Game.vcxproj -> C:\Users\Marion Hance\Desktop\Muse Blast\x64\Debug\Game.exe
